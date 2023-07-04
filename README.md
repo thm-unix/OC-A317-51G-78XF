@@ -57,7 +57,7 @@ Acer Aspire A317-51G-78XF
 - Brightness keys
 
 
-## HDMI fix
+## HDMI fix (@Ukr55)
 Note. When you apply this changes to config.plist, only HDMI will work (eDP does not work with following changes!). 
 
 Remove all properties from config.plist -> DeviceProperties -> Add -> PciRoot(0x0)/Pci(0x2,0x0)
