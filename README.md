@@ -58,7 +58,7 @@ Acer Aspire A317-51G-78XF
 
 
 ## HDMI fix
-Note. When you apply this changes to config.plist, only HDMI will work (eDP not works with following changes!). 
+Note. When you apply this changes to config.plist, only HDMI will work (eDP does not work with following changes!). 
 
 Remove all properties from config.plist -> DeviceProperties -> Add -> PciRoot(0x0)/Pci(0x2,0x0)
 and add the following in order to enable HDMI:
