@@ -54,6 +54,7 @@ Acer Aspire A317-51G-78XF
 
 🔴 Not works
 - Wi-Fi (QCA9377)
+- MX250
 - Brightness keys
 
 
