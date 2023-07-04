@@ -19,12 +19,10 @@ OpenCore config for Acer Aspire A317-51G-78XF. Works with macOS 10.15, 11, 12 an
    4. On `Boot` tab set `Secure Boot` to `Disabled`
    5. On `Security` tab set `Supervisor password` to empty
    6. Save & Reboot
-8. (optional) Boot from your USB stick and choose `Reset NVRAM`<br>
-   Note. This likely will erase all UEFI boot entries. If you want to dualboot Mac OS X with Linux or Windows, please follow guide on [Dortania](https://dortania.github.io/OpenCore-Multiboot/oc/linux.html).
-11. Boot from your USB stick again and choose installer
-12. Perform usual installation
-13. Mount EFI partition of your system drive
-14. Copy `EFI` directory on EFI partition of your system drive
+8. Boot from your USB stick again and choose installer
+9. Perform usual installation
+10. Mount EFI partition of your system drive
+11. Copy `EFI` directory on EFI partition of your system drive
 
 ## Laptop Specifications
 Acer Aspire A317-51G-78XF
