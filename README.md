@@ -1,5 +1,5 @@
 # OC-A317-51G-78XF
-OpenCore config for Acer Aspire A317-51G-78XF. Works with macOS 10.15, 11, 12 and 13.
+OpenCore (v. 0.8.8) config for Acer Aspire A317-51G-78XF. Works with macOS 10.15, 11, 12 and 13.
 
 ## Setup
 1. Generate a `MacBookPro16,2` SMBIOS and put it into config.plist
